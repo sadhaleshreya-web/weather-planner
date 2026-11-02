@@ -1,4 +1,4 @@
-\# 🌤️ Daily Weather \& Outfit Planner
+\# Daily Weather \& Outfit Planner
 
 
 
@@ -10,7 +10,7 @@ A lightweight Java command-line utility that fetches daily weather forecasts, an
 
 
 
-\## 🎯 Project Goal \& Overview
+\## Project Goal \& Overview
 
 To eliminate morning guesswork by automatically pulling local weather data and translating temperature, precipitation, wind, and UV indexes into actionable clothing and accessory recommendations.
 
@@ -168,7 +168,7 @@ Features planned for future iterations (derived from Quadrant 2: Schedule of the
 
 
 
-\## 📊 Design \& Eisenhower Matrix
+\## Eisenhower Matrix
 
 
 
