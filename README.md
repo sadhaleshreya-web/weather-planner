@@ -32,15 +32,7 @@ This software connects to the Open-Meteo REST API using standard Java libraries 
 
 \\`\\`\\`
 
-+-------------------+      +------------------+      +-------------------+      +-------------------+
-
-|  1. Fetch Weather | ---> | 2. Parse \& Check | ---> | 3. Logic Engine   | ---> | 4. Output Alert   |
-
-|   (Call Free API) |      | (Extract Temp/   |      | (Match Rules to   |      | (Console Print or |
-
-|                   |      |  Rain/UV Data)   |      |  Wardrobe Items)  |      |  Desktop Notif)   |
-
-+-------------------+      +------------------+      +-------------------+      +-------------------+
+![System Diagram](docs/diagram.png)
 
 \\`\\`\\`
 
